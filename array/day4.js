@@ -1,15 +1,4 @@
-// function List({ items }) {
-//   return (
-//     <ul>
-//       {items.map((item, index) => (
-//         <li key={index}>
-//           <input type="text" defaultValue={item.name} />
-//         </li>
-//       ))}
-//     </ul>
-//   );
-// }
-// let num=Number(prompt("Enter the number of elements in the array"));
+
 
 // WAP to find the sum of first 100 natural numbers.
  
