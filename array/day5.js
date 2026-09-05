@@ -15,3 +15,9 @@ for(let i=0;i<arr.length;i++){
 
 }
 console.log("Maximum element in the array is: " + max);
+
+
+
+
+
+
