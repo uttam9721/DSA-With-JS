@@ -7,5 +7,6 @@ while(i!=j){
     arr[j]=temp;
     i++;
     j--;
+    
 }
 console.log(arr);
