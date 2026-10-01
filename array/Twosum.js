@@ -5,6 +5,7 @@ for(let i=0;i<arr.length;i++){
         if(arr[i]+arr[j]===target){
             let sum=[arr[i],arr[j]];
             console.log(sum);
+            
         }
     }
 }
